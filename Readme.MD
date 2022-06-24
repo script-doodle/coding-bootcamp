@@ -1,8 +1,13 @@
-# Responsive Coding Bootcamp Website
+# Fake Coding Bootcamp Website
+## To Experience Live Demo [Click Here](https://md-mussanna-bin-sharif.github.io/coding-bootcamp/)
+### Fake Coding Bootcamp Website
+- Crafted Using HTML & Bootstrap.
+- Smooth Scrolling in Each Section.
+- Developed with Mobile First Method then Desktop.
+- Compatible with All Mobile Devices.
+- With a Minimal & Pleasing User Interface.
 
-### Responsive Coding Bootcamp Website
-Responsive Coding Bootcamp Website Using Bootstrap, With a beautiful user interface. It contains a Navbar, Showcase, Newsletter, Cards, Learning Fundamentals, Learning React, Question Accordion, Instructor, Contact & Map, Footer.
+#### Follow me on:
+[Facebook](https://www.facebook.com/md.mussanna.bin.sharif) | [Instagram](https://www.instagram.com/md_mussanna_bin_sharif) | [Twitter](https://twitter.com/mahin_tweets)
 
-Don't forget to follow me on Instagram for more website like this. [Mahin](https://www.instagram.com/md_mussanna_bin_sharif/)
-
-![Resume cv](/preview.png)
+![Preview](/preview.png)
