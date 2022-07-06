@@ -1,5 +1,5 @@
 # Fake Coding Bootcamp Website
-## [Live Demo](https://md-mussanna-bin-sharif.github.io/coding-bootcamp/)
+## [Live Demo](https://mahin-codes.github.io/coding-bootcamp/)
 ### Fake Coding Bootcamp Website
 - Crafted Using HTML & Bootstrap.
 - Smooth Scrolling in Each Section.
