@@ -1,5 +1,5 @@
 # Fake Coding Bootcamp Website
-## [Live Demo](https://mahin-codes.github.io/coding-bootcamp/)
+## [Live Demo](https://script-doodle.github.io/coding-bootcamp/)
 ### Fake Coding Bootcamp Website
 - Crafted Using HTML & Bootstrap.
 - Smooth Scrolling in Each Section.
@@ -8,6 +8,6 @@
 - With a Minimal & Pleasing User Interface.
 
 #### Follow me on:
-[Facebook](https://www.facebook.com/md.mussanna.bin.sharif) | [Instagram](https://www.instagram.com/md_mussanna_bin_sharif) | [Twitter](https://twitter.com/mahin_tweets)
+[Facebook](https://www.facebook.com/script.doodle) | [Instagram](https://www.instagram.com/script_doodle/) | [Twitter](https://twitter.com/script_doodle)
 
 ![Preview](/preview.png)
